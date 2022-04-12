@@ -1,7 +1,7 @@
 # hacktcnj_wordgame
 A two player customizable word guessing game
 
-#LONG DESCRIPTION!
+# LONG DESCRIPTION!
 This code consists of two players. 
 Only one player will be able to look at the code. 
 This code was made for the purpose of being a game generator. 
